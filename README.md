@@ -28,7 +28,7 @@ A trie is a multiway tree data structure used for storing strings over an alphab
 
 The idea is that all strings sharing common prefix should come from a common node.
 
-![Boggle2](assets/boggle2.png)
+![Boggle2](assets/trie.png)
 
 <br>
 
