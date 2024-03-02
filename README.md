@@ -39,12 +39,6 @@ Valid words are scored according to their length, using this table:
 ![Boggle3](assets/boggle3.png)
 
 <br>
-
-## The Qu special case
-
- In the English language, the letter Q is almost always followed by the letter U. Consequently, the side of one die is printed with the two-letter sequence Qu instead of Q And this two-letter sequence being used together when forming words. When scoring, Qu counts as two letters; for example, the word QuEUE scores as a 5-letter word even though it is formed by following a sequence of only 4 dice.
- 
-<br>
  
 ## Performance
 
